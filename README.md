@@ -1,6 +1,6 @@
 ## Hi, I'm Kunal
 I'm a Computer Science student at the University of Illinois Urbana-Champaign, interested in software engineering, machine learning, and solving challenging problems.
-##Current Projects
+## Current Projects
 Competitive programming: USACO Gold and a tutor at Recursive Dragon, helping students develop their problem-solving skills.
 Research: Previously worked with Prof. Mark Stamp at San Jose State University on machine learning for malware classification and federated learning under label-flipping attacks.
 ## Featured Research
