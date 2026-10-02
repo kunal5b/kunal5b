@@ -1,5 +1,13 @@
-## Hi there 👋
+##Hi, I'm Kunal
+I'm a Computer Science student at the University of Illinois Urbana-Champaign, interested in software engineering, machine learning, and solving challenging problems.
+##Current Projects
+Competitive programming: USACO Gold and a tutor at Recursive Dragon, helping students develop their problem-solving skills.
+Research: Previously worked with Prof. Mark Stamp at San Jose State University on machine learning for malware classification and federated learning under label-flipping attacks.
+## Featured Research
+[Malware Visualization Analysis]([url](https://github.com/andrewdo789/Malware-Visualization-Analysis))
+Collaborative research exploring image representations of malware for machine learning classification. I contributed to the project as part of my research, working on image transformation techniques, including Hilbert curve representations, and classification experiments.
 
+Currently looking for opportunities for Summer 2027 so feel free to reach out!
 <!--
 **kunal5b/kunal5b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
