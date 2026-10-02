@@ -1,4 +1,4 @@
-##Hi, I'm Kunal
+## Hi, I'm Kunal
 I'm a Computer Science student at the University of Illinois Urbana-Champaign, interested in software engineering, machine learning, and solving challenging problems.
 ##Current Projects
 Competitive programming: USACO Gold and a tutor at Recursive Dragon, helping students develop their problem-solving skills.
