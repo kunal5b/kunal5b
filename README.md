@@ -4,7 +4,8 @@ I'm a Computer Science student at the University of Illinois Urbana-Champaign, i
 Competitive programming: USACO Gold and a tutor at Recursive Dragon, helping students develop their problem-solving skills.
 Research: Previously worked with Prof. Mark Stamp at San Jose State University on machine learning for malware classification and federated learning under label-flipping attacks.
 ## Featured Research
-[Malware Visualization Analysis]([url](https://github.com/andrewdo789/Malware-Visualization-Analysis))
+[Malware Visualization Analysis](https://github.com/andrewdo789/Malware-Visualization-Analysis) 
+
 Collaborative research exploring image representations of malware for machine learning classification. I contributed to the project as part of my research, working on image transformation techniques, including Hilbert curve representations, and classification experiments.
 
 Currently looking for opportunities for Summer 2027 so feel free to reach out!
